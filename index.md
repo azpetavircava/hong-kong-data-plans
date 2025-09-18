@@ -65,3 +65,10 @@ layout: default
 
 　　希望这份指南能帮你做出更从容的选择。祝你2025年的香港之旅，一路畅通，分享不停！
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Hong Kong SIM 卡购买与激活指南](https://faciylike.github.io/hong-kong-sim-guides)
